@@ -6,26 +6,26 @@
 ### Connect with me
 
 <table>
-  <tr height="150">
+  <tr border="0" height="160">
     <td border="0" width="200" align="center">
-       <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/aa3cbe84-a3aa-42cb-8ac3-5f42d517d3b2" alt=""></a>
-       <b><br>@SantanuWorks</b>
+       <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/aa3cbe84-a3aa-42cb-8ac3-5f42d517d3b2" alt="Linkedin"></a>
+       <b><br>@visitsantanu07</b>
     </td>
     <td border="0" width="200" align="center">
-       <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/0fd60685-033b-46db-81fb-a0e5e4b2521b" alt=""></a>
-       <b><br>@SantanuWorks</b>
+       <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/0fd60685-033b-46db-81fb-a0e5e4b2521b" alt="Twitter"></a>
+       <b><br>@SantanuTweets07</b>
     </td>
     <td border="0" width="200" align="center">
-      <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8aa2ced4-0aa8-41a0-9e05-df902a2a84bc" alt=""></a>
-      <b><br>@SantanuWorks</b>
+      <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8aa2ced4-0aa8-41a0-9e05-df902a2a84bc" alt="Instagram"></a>
+      <b><br>@_mrcyber_</b>
     </td>
     <td border="0" width="200" align="center">
-      <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f9092f1a-fa27-4dbc-9cac-2dc0986fe800" alt=""></a> 
-      <b><br>@SantanuWorks</b> 
+      <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f9092f1a-fa27-4dbc-9cac-2dc0986fe800" alt="Facebook"></a> 
+      <b><br>@mrcyberBORNAGAIN</b> 
     </td>
     <td border="0" width="200" align="center">
-      <a href="mailto:santanuworkspace@gmail.com"><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/df38170b-037c-461a-8970-e2e21f497d11" alt=""></a>
-      <b><br>@SantanuWorks</b> 
+      <a href="mailto:santanuworkspace@gmail.com"><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/df38170b-037c-461a-8970-e2e21f497d11" alt="Gmail"></a>
+      <b><br>@santanuworkspace</b> 
     </td>
   </tr>
 </table>
