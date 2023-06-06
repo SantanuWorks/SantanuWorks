@@ -3,7 +3,7 @@
 
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
-<h2 align="left">Connect with me:</h2>
+### Connect with me
 
 <table>
   <tr height="200">
