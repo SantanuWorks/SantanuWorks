@@ -1,29 +1,31 @@
-<!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
-
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
 <h1 align="center">Hi 👋, I'm Santanu Pradhan</h1>
 <h3 align="center">Technology Enthusiasts | Poetry Writing | Home Tutor</h3>
 
 <h2 align="left">Connect with me:</h2>
- 
+
 <table>
   <tr height="200">
     <td width="200" align="center">
-       <a valign="top" href=""><img height="90" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt=""></a>
-       <b color="red" ><br>@SantanuWorks</b>
+       <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/aa3cbe84-a3aa-42cb-8ac3-5f42d517d3b2" alt=""></a>
+       <b><br>@SantanuWorks</b>
     </td>
     <td width="200" align="center">
-       <a href=""><img src="https://img.icons8.com/color/48/000000/codechef.png" alt=""></a>
+       <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/0fd60685-033b-46db-81fb-a0e5e4b2521b" alt=""></a>
+       <b><br>@SantanuWorks</b>
     </td>
     <td width="200" align="center">
-      <a href=""><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt=""></a>
+      <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8aa2ced4-0aa8-41a0-9e05-df902a2a84bc" alt=""></a>
+      <b><br>@SantanuWorks</b>
     </td>
     <td width="200" align="center">
-       <a href=""><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt=""></a> 
+      <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f9092f1a-fa27-4dbc-9cac-2dc0986fe800" alt=""></a> 
+      <b><br>@SantanuWorks</b> 
     </td>
     <td width="200" align="center">
-       <a href="mailto:santanuworkspace@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt=""></a>
+      <a href="mailto:santanuworkspace@gmail.com"><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/df38170b-037c-461a-8970-e2e21f497d11" alt=""></a>
+      <b><br>@SantanuWorks</b> 
     </td>
   </tr>
 </table>
