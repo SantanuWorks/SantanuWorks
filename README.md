@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santanu Pradhan</h1>
 <h3 align="center">Technology Enthusiasts | Poetry Writing | Home Tutor</h3>
 
+<img src="https://github.com/SantanuWorks/SantanuWorks/blob/main/.gif">
+
 <h3 align="left">Languages and Tools:</h3>
 
 ### Languages 🖥️
