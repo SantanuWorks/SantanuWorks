@@ -4,26 +4,27 @@
 <h3 align="center">Technology Enthusiasts | Poetry Writing | Home Tutor</h3>
 
 <h2 align="left">Connect with me:</h2>
-
+ 
 <table>
   <tr>
-    <td><a href="" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt=""/></a>&nbsp;
+    <td width="200">
+       <a href=""><center><img src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt=""></center></a>
     </td>
-     <td><a href="" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt=""/></a>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><a href="" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="" /></a>&nbsp;
+    <td width="200">
+       <a href=""><img src="https://img.icons8.com/color/48/000000/codechef.png" alt=""></a>
     </td>
-     <td><a href="" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="" /></a> </td>
+    <td width="200">
+      <a href=""><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt=""></a>
+    </td>
+    <td width="200">
+       <a href=""><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt=""></a> 
+    </td>
+    <td width="200">
+       <a href="mailto:santanuworkspace@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt=""></a>
+    </td>
   </tr>
 </table>
-<p align="center">
-<a href="mailto:santanuworkspace@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="" /></a>&nbsp;
 
-
-
-
-</p>
 <h3 align="left">Languages and Tools:</h3>
 
 ### Languages 🖥️
