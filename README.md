@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 
 
-### Languages Used 
+### Languages 🖥️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuWorks&theme=dark&card_width=1000&show_icons=true&hide_title=true)](https://github.com/SantanuWorks/github-readme-stats)
 
 ### Streak ⚡
