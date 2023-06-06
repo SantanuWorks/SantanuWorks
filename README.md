@@ -5,9 +5,9 @@
 
 ### Connect with me
 
-<table>
-  <tr height="200">
-    <td width="200" align="center">
+<table style="border:none;" >
+  <tr style="border:none;" height="200">
+    <td style="border:none;" width="200" align="center">
        <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/aa3cbe84-a3aa-42cb-8ac3-5f42d517d3b2" alt=""></a>
        <b><br>@SantanuWorks</b>
     </td>
