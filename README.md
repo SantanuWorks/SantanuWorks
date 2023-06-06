@@ -4,11 +4,11 @@
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
 ### Connect with me
-
+<p>
 <table>
   <tr border="0" height="160">
     <td border="0" width="200" align="center">
-       <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/aa3cbe84-a3aa-42cb-8ac3-5f42d517d3b2" alt="Linkedin"></a>
+       <a href="https://www.flaticon.com/free-icons/email"><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/aa3cbe84-a3aa-42cb-8ac3-5f42d517d3b2" alt="Linkedin"></a>
        <b><br>@visitsantanu07</b>
     </td>
     <td border="0" width="200" align="center">
@@ -29,6 +29,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
