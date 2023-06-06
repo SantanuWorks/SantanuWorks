@@ -5,25 +5,25 @@
 
 ### Connect with me
 
-<table style="border:none;" >
-  <tr style="border:none;" height="200">
-    <td style="border:none;" width="200" align="center">
+<table>
+  <tr height="150">
+    <td border="0" width="200" align="center">
        <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/aa3cbe84-a3aa-42cb-8ac3-5f42d517d3b2" alt=""></a>
        <b><br>@SantanuWorks</b>
     </td>
-    <td width="200" align="center">
+    <td border="0" width="200" align="center">
        <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/0fd60685-033b-46db-81fb-a0e5e4b2521b" alt=""></a>
        <b><br>@SantanuWorks</b>
     </td>
-    <td width="200" align="center">
+    <td border="0" width="200" align="center">
       <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8aa2ced4-0aa8-41a0-9e05-df902a2a84bc" alt=""></a>
       <b><br>@SantanuWorks</b>
     </td>
-    <td width="200" align="center">
+    <td border="0" width="200" align="center">
       <a href=""><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f9092f1a-fa27-4dbc-9cac-2dc0986fe800" alt=""></a> 
       <b><br>@SantanuWorks</b> 
     </td>
-    <td width="200" align="center">
+    <td border="0" width="200" align="center">
       <a href="mailto:santanuworkspace@gmail.com"><img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/df38170b-037c-461a-8970-e2e21f497d11" alt=""></a>
       <b><br>@SantanuWorks</b> 
     </td>
