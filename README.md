@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages Used 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuWorks&theme=dark&card_width=1000&show_icons=true&hide_title=true)](https://github.com/SantanuWorks/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuWorks&theme=dark&card_width=1000&show_icons=true)](https://github.com/SantanuWorks/github-readme-stats)
-
-<b style="font-size:25px;" >### My GitHub Stream</b><br>
+### Streak ⚡
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SantanuWorks&show_icons=true&theme=dark&card_width=1000)](https://git.io/streak-stats)
 
-![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantanuWorks&show_icons=true&theme=dark&card_width=1000)
+### Stats 📈
+![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantanuWorks&show_icons=true&theme=dark&card_width=1000&hide_title=true)
