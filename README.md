@@ -3,7 +3,7 @@
 
 - 🔭 I’m a strudent 
 - 🌱 I’m currently learning Java
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 
 
 ### Languages Used 
