@@ -1,7 +1,5 @@
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
-<br>
-
 <h1 align="center">Hi 👋, I'm Santanu Pradhan</h1>
 <h3 align="center">Technology Enthusiasts | Poetry Writing | Home Tutor</h3>
 
