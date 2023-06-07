@@ -3,14 +3,12 @@
 
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
-![gmail](https://github.com/SantanuWorks/SantanuWorks/blob/main/gmail.png)
-
 ### Connect with me
 <p>
 <table>
   <tr border="0" height="160">
     <td border="0" width="200" align="center">
-      <a href="https://www.flaticon.com/free-icons/email"> <img height="80" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FIMGWorldwide%2F&psig=AOvVaw3QGND5QKpOJzgbAUb8J3H3&ust=1686201859393000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMj_ksm1sP8CFQAAAAAdAAAAABAN" alt="Linkedin"></a>
+      <a href="https://www.flaticon.com/free-icons/email"> <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/blob/865cd5ff20b94eba03a4178e49b7afc251b0955c/gmail.png" alt="Linkedin"></a>
        <!-- a href="https://www.flaticon.com/free-icons/email"> <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/aa3cbe84-a3aa-42cb-8ac3-5f42d517d3b2" alt="Linkedin"></a-->
        <b><br>@visitsantanu07</b>
     </td>
