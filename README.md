@@ -3,7 +3,7 @@
 
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
-### Programming Languages and Tools 🖥️
+### Programming Languages 🖥️
 
 <table>
   <tr height="160">
@@ -24,6 +24,11 @@
       <b><br>Python</b>
     </td>
   </tr>
+</table>
+
+### Application Development Frameworks 
+
+<table>
   <tr height="160">
     <td width="200" align="center">
        <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/26409e64-886a-46d4-a0ed-aa38d855ef23" alt="Qt">
@@ -32,7 +37,7 @@
   </tr>
 </table>
 
-### Web Technologies and Tools 🖥️
+### Web Languages 🖥️
 <table>
   <tr height="160">
     <td width="200" align="center">
@@ -52,6 +57,11 @@
       <b><br>php</b>
     </td>
   </tr>
+</table>
+
+### Web Development Frameworks 
+
+<table>
   <tr height="160">
     <td width="200" align="center">
        <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/b2dcd773-9b15-47ff-8fe0-c9d51064f48e" alt="Laravel">
@@ -70,26 +80,31 @@
       <b><br>NodeJS</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/fa2866bb-7b15-47bd-8024-9073c1557378" alt="ExpressJs">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f82ab341-c185-42f6-bce5-f96359231673" alt="ExpressJs">
       <b><br>ExpressJs</b>
     </td>
   </tr>
+</table>
+
+### Database Tools and Server
+
+<table>
   <tr height="160">
     <td width="200" align="center">
        <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/dfb9f5d3-5b5d-407e-9a6d-dbbf7fe9ff3b" alt="MySQL">
       <b><br>MySQL</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/43983b7f-c446-4fba-a117-4a80819ca0cd" alt="MongoDB">
+       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/6cff3677-4e6d-4410-afd0-6a432b6f6f79" alt="MongoDB">
       <b><br>MongoDB</b>
+    </td>
+    <td width="200" align="center">
+       <img height="90" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/d100591f-e143-4194-8122-cc0be8164530" alt="phpMyAdmin">
+      <b><br>phpMyAdmin</b>
     </td>
     <td width="200" align="center">
        <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/3d221007-5ad5-4f50-8969-91dec25f5fa4" alt="Xampp">
       <b><br>Xampp</b>
-    </td>
-    <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/00115766-b8cb-433e-85ab-83a1a203814e" alt="phpMyAdmin">
-      <b><br>phpMyAdmin</b>
     </td>
   </tr>
 </table>
@@ -169,10 +184,18 @@
   </tr>
 </table>
 
+### Top Langs 
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SantanuWorks)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Streak ⚡
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SantanuWorks&show_icons=true&theme=dark&card_width=1000)](https://git.io/streak-stats)
 
 ### Stats 📈
 
+![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantanuWorks&show_icons=true&theme=dark&card_width=1000)
 
-<a target="_blank" href="https://icons8.com/icon/62856/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+### Icons by
+<b><a href="https://www.flaticon.com">Icons created by Freepik - Flaticon</a></b><br>
+<b><a href="https://icons8.com">Icons created by Icons8</a></b>
