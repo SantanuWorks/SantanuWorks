@@ -128,7 +128,7 @@
   </tr>
 </table>
 
-### Social Profiles 😊
+## Social Profiles 😊
 <table>
   <tr height="160">
     <td width="200" align="center">
@@ -154,7 +154,7 @@
   </tr>
 </table>
 
-### Coding Profiles 👨‍💻
+## Coding Profiles 👨‍💻
 <table>
   <tr height="160">
     <td width="200" align="center">
@@ -180,15 +180,13 @@
   </tr>
 </table>
 
-### Streak ⚡
-
+## Streak ⚡
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SantanuWorks&show_icons=true&theme=dark&card_width=1000)](https://git.io/streak-stats)
 
-### Stats 📈
-
+## Stats 📈
 ![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantanuWorks&show_icons=true&theme=dark&card_width=1000)
 
-### Icons by
+## Credits
 <b><a href="https://www.flaticon.com">Icons created by Freepik - Flaticon</a></b><br>
 <b><a href="https://icons8.com">Icons created by Icons8</a></b><br>
 <b><a href="https://iconscout.com/icons/github" target="_blank">Free Github Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons">Pixel Icons</a> on <a href="https://iconscout.com">IconScout</a></b>
