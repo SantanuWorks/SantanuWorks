@@ -3,8 +3,8 @@
 
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
-### Programming Languages 🖥️
-
+## Skills
+#### ➋ Programming Languages 🖥️
 <table>
   <tr height="160">
     <td width="200" align="center">
@@ -26,8 +26,7 @@
   </tr>
 </table>
 
-### Application Development Frameworks 
-
+#### Application Development Frameworks 
 <table>
   <tr height="160">
     <td width="200" align="center">
@@ -37,7 +36,7 @@
   </tr>
 </table>
 
-### Web Languages 🖥️
+#### Web Languages 🖥️
 <table>
   <tr height="160">
     <td width="200" align="center">
@@ -59,8 +58,7 @@
   </tr>
 </table>
 
-### Web Development Frameworks 
-
+#### Web Development Frameworks 
 <table>
   <tr height="160">
     <td width="200" align="center">
@@ -86,8 +84,7 @@
   </tr>
 </table>
 
-### Database Tools and Server
-
+#### Database Tools and Server
 <table>
   <tr height="160">
     <td width="200" align="center">
@@ -109,8 +106,7 @@
   </tr>
 </table>
 
-### Software Tools 😊
-
+#### Software Tools 😊
 <table>
   <tr height="160">
     <td width="200" align="center">
