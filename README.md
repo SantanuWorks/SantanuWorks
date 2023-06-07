@@ -46,11 +46,11 @@
       <a href=""><b><br>@_mrcyber_</b></a>
     </td>
     <td border="0" width="200" align="center">
-      <img height="80" src="" alt="Hackerearth">
+      <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/bc17f97b-e731-4f83-8b7c-26363ee47187" alt="Hackerearth">
       <a href=""><b><br>@mrcyberBORNAGAIN</b></a>
     </td>
     <td border="0" width="200" align="center">
-      <img height="80" src="" alt="">
+      <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/d39ccdfc-37fa-4837-92cc-ebc36482e088" alt="Codeforces">
       <a href=""><b><br>@santanuworkspace</b></a> 
     </td>
   </tr>
