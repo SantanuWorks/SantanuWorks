@@ -3,7 +3,7 @@
 
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
-### Connect with me
+### Social Profiles
 <table>
   <tr height="160">
     <td width="200" align="center">
@@ -35,23 +35,23 @@
   <tr height="160">
     <td width="200" align="center">
        <img width="80" height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/14c0f9fb-ff87-4a1e-9642-d021071ed8f7" alt="Codechef">
-      <a href=""><b><br>@visitsantanu07</b></a>
+      <a href=""><b><br>Codechef</b></a>
     </td>
     <td width="200" align="center">
        <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/826187fa-a9fb-4137-870e-44f50b0ac12f" alt="Hackerrank">
-       <a href=""><b><br>@SantanuTweets07</b></a>
+       <a href=""><b><br>Hackerrank</b></a>
     </td>
     <td border="0" width="200" align="center">
       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/9128241b-5630-4c8f-8849-949c6446a86c" alt="Leetcode">
-      <a href=""><b><br>@_mrcyber_</b></a>
+      <a href=""><b><br>Leetcode</b></a>
     </td>
     <td border="0" width="200" align="center">
       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/bc17f97b-e731-4f83-8b7c-26363ee47187" alt="Hackerearth">
-      <a href=""><b><br>@mrcyberBORNAGAIN</b></a>
+      <a href=""><b><br>Hackerearth</b></a>
     </td>
     <td border="0" width="200" align="center">
       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/d39ccdfc-37fa-4837-92cc-ebc36482e088" alt="Codeforces">
-      <a href=""><b><br>@santanuworkspace</b></a> 
+      <a href=""><b><br>Codeforces</b></a> 
     </td>
   </tr>
 </table>
