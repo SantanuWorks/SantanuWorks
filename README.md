@@ -103,3 +103,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SantanuWorks&show_icons=true&theme=dark&card_width=1000)](https://git.io/streak-stats)
 
 ### Stats 📈
+
+
+<a target="_blank" href="https://icons8.com/icon/62856/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
