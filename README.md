@@ -3,6 +3,8 @@
 
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
+![gmail](https://github.com/SantanuWorks/SantanuWorks/blob/main/gmail.png)
+
 ### Connect with me
 <p>
 <table>
