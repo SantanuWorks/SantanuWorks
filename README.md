@@ -3,6 +3,50 @@
 
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
+### Programming Languages 🖥️
+<table>
+  <tr height="160">
+    <td width="200" align="center">
+       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/83d0bc0d-46e1-463c-8143-a10a37659b58" alt="C">
+      <b><br>C</b>
+    </td>
+    <td width="200" align="center">
+       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/cfda4b33-ae92-4a7c-9723-bb1dc3927f75" alt="Cpp">
+       <b><br>C++</b>
+    </td>
+    <td border="0" width="200" align="center">
+      <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/9345129d-3f1a-4321-8407-ffeaf24d2aec" alt="Java">
+      <b><br>Java</b>
+    </td>
+    <td border="0" width="200" align="center">
+      <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/b81dfed6-6525-400c-bd84-8ed68aed1ba4" alt="Python">
+      <b><br>Python</b>
+    </td>
+  </tr>
+</table>
+
+### Web Languages 🖥️
+<table>
+  <tr height="160">
+    <td width="200" align="center">
+       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/cc519c33-ea11-4286-9ba5-5fb843f15457" alt="HTML">
+      <b><br>HTML</b>
+    </td>
+    <td width="200" align="center">
+       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/18408619-d1a9-4e1a-aba5-3666752da0a8" alt="CSS">
+       <b><br>CSS</b>
+    </td>
+    <td border="0" width="200" align="center">
+      <img height="70" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8e91e0b8-9fb0-4301-8b1a-9138ac1a595c" alt="Javascript">
+      <b><br>Javascript</b>
+    </td>
+    <td border="0" width="200" align="center">
+      <img height="90" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/224df8df-5cb2-4bb8-b8d0-bcd9b90db3d3" alt="PHP">
+      <b><br>php</b>
+    </td>
+  </tr>
+</table>
+
 ### Social Profiles 😊
 <table>
   <tr height="160">
@@ -29,7 +73,6 @@
   </tr>
 </table>
 
-
 ### Coding Profiles 👨‍💻
 <table>
   <tr height="160">
@@ -55,8 +98,6 @@
     </td>
   </tr>
 </table>
-
-### Languages 🖥️
 
 ### Streak ⚡
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SantanuWorks&show_icons=true&theme=dark&card_width=1000)](https://git.io/streak-stats)
