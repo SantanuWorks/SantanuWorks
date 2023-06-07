@@ -184,10 +184,6 @@
   </tr>
 </table>
 
-### Top Langs 
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SantanuWorks)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Streak ⚡
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SantanuWorks&show_icons=true&theme=dark&card_width=1000)](https://git.io/streak-stats)
