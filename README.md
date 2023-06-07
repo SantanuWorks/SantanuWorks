@@ -8,23 +8,23 @@
   <tr height="160">
     <td width="200" align="center">
        <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/aa3cbe84-a3aa-42cb-8ac3-5f42d517d3b2" alt="Linkedin">
-      <a href="https://www.linkedin.com/in/visitsantanu07"><b><br>@visitsantanu07</b></a>
+      <a href="https://www.linkedin.com/in/visitsantanu07" target="_blank"><b><br>@visitsantanu07</b></a>
     </td>
     <td width="200" align="center">
        <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/0fd60685-033b-46db-81fb-a0e5e4b2521b" alt="Twitter">
-       <a href="https://twitter.com/SantanuTweets07"><b><br>@SantanuTweets07</b></a>
+       <a href="https://twitter.com/SantanuTweets07" target="_blank"><b><br>@SantanuTweets07</b></a>
     </td>
     <td border="0" width="200" align="center">
       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8aa2ced4-0aa8-41a0-9e05-df902a2a84bc" alt="Instagram">
-      <a href="https://www.instagram.com/_mrcyber_"><b><br>@_mrcyber_</b></a>
+      <a href="https://www.instagram.com/_mrcyber_" target="_blank"><b><br>@_mrcyber_</b></a>
     </td>
     <td border="0" width="200" align="center">
       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f9092f1a-fa27-4dbc-9cac-2dc0986fe800" alt="Facebook">
-      <a href="https://www.facebook.com/mrcyberBORNAGAIN"><b><br>@mrcyberBORNAGAIN</b></a>
+      <a href="https://www.facebook.com/mrcyberBORNAGAIN" target="_blank"><b><br>@mrcyberBORNAGAIN</b></a>
     </td>
     <td border="0" width="200" align="center">
       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/df38170b-037c-461a-8970-e2e21f497d11" alt="Gmail">
-      <a href="mailto:santanuworkspace@gmail.com"><b><br>@santanuworkspace</b></a> 
+      <a href="mailto:santanuworkspace@gmail.com" target="_blank"><b><br>@santanuworkspace</b></a> 
     </td>
   </tr>
 </table>
