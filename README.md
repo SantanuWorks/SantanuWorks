@@ -1,6 +1,31 @@
 <h1 align="center">Hi 👋, I'm Santanu Pradhan</h1>
 <h3 align="center">Technology Enthusiast | Poetry Writing | Home Tutor</h3><br>
 
+
+
+![xampp](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/9e2d7c48-46b2-4d1c-9a16-e0a3d43ef7eb)
+![phpmyadmin](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/b14c9812-608b-4cd9-b8af-52d8204e72c2)
+![Expressjs](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/673271e0-451c-4c7f-aca7-a8acf71f1f50)
+![node](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8c6f12ca-0224-4aba-a75c-453038f54101)
+![react](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/fe3d5518-5ca6-466b-98c6-649146eda68e)
+![django](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/2f5a5f43-f820-4bce-b18c-24d51a29c4d4)
+![laravel](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/b1570dd8-531a-427a-b194-bd5a14cf3648)
+![qt](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/9c23bcab-1784-4e64-817c-3eec1db5cfbd)
+![php](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/bb0968aa-6f27-4b37-b7fd-d228f3b82285)
+![js](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/11ba048c-d03b-45de-a970-b99b2d47bec2)
+![css](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/bae0fc00-8e1c-4f23-bfca-8b3edd921307)
+![html](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/61e57ed8-f4bb-4a6f-bd78-b01937df68f3)
+![python](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/fb93cfbf-1240-42c2-89b5-d0b55c38c4d3)
+![java](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/d228c135-e1ab-404e-a432-3b91928923e3)
+![cpp](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/77a8c477-af2b-4a4e-ad95-775b5ae7ecbb)
+![c](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8071d858-3f28-4aaf-b0f0-8bc3deb26166)
+![github](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/e8e71e01-7057-43b7-8785-b314acfcebd0)
+![git](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/d680f54e-b074-493c-97c1-f9fa364d2737)
+![ubuntu](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8741cf1a-1ae9-47f3-a513-411a89490db3)
+![linux](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/2600e95e-e170-47ff-adba-bc292ec91441)
+![mongo](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/82e1bf3c-4136-463b-9d62-85690d4e66ef)
+![mysql](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/ca8a2ee2-47a9-4633-af20-09c9c8440beb)
+
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
 ### Programming Languages 🖥️
