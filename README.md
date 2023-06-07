@@ -3,7 +3,7 @@
 
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
-### Social Profiles
+### Social Profiles 😊
 <table>
   <tr height="160">
     <td width="200" align="center">
@@ -30,7 +30,7 @@
 </table>
 
 
-### Coding Profiles
+### Coding Profiles 👨‍💻
 <table>
   <tr height="160">
     <td width="200" align="center">
