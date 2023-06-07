@@ -109,10 +109,6 @@
   </tr>
 </table>
 
-![github]()
-
-
-
 ### Software Tools 😊
 
 <table>
@@ -198,5 +194,5 @@
 
 ### Icons by
 <b><a href="https://www.flaticon.com">Icons created by Freepik - Flaticon</a></b><br>
-<b><a href="https://icons8.com">Icons created by Icons8</a></b>
+<b><a href="https://icons8.com">Icons created by Icons8</a></b><br>
 <b><a href="https://iconscout.com/icons/github" target="_blank">Free Github Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons">Pixel Icons</a> on <a href="https://iconscout.com">IconScout</a></b>
