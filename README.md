@@ -8,21 +8,21 @@
 
 #### • Programming Languages 🖥️
 <table>
-  <tr height="160">
+  <tr height="120">
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8071d858-3f28-4aaf-b0f0-8bc3deb26166" alt="C">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8071d858-3f28-4aaf-b0f0-8bc3deb26166" alt="C">
       <b><br>C</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/77a8c477-af2b-4a4e-ad95-775b5ae7ecbb" alt="Cpp">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/77a8c477-af2b-4a4e-ad95-775b5ae7ecbb" alt="Cpp">
        <b><br>C++</b>
     </td>
-    <td border="0" width="200" align="center">
-      <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/d228c135-e1ab-404e-a432-3b91928923e3" alt="Java">
+    <td width="200" align="center">
+      <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/d228c135-e1ab-404e-a432-3b91928923e3" alt="Java">
       <b><br>Java</b>
     </td>
-    <td border="0" width="200" align="center">
-      <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/fb93cfbf-1240-42c2-89b5-d0b55c38c4d3" alt="Python">
+    <td width="200" align="center">
+      <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/fb93cfbf-1240-42c2-89b5-d0b55c38c4d3" alt="Python">
       <b><br>Python</b>
     </td>
   </tr>
@@ -30,9 +30,9 @@
 
 #### • Application Development Frameworks 
 <table>
-  <tr height="160">
+  <tr height="120">
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/9c23bcab-1784-4e64-817c-3eec1db5cfbd" alt="Qt">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/9c23bcab-1784-4e64-817c-3eec1db5cfbd" alt="Qt">
       <b><br>Qt</b>
     </td>
   </tr>
@@ -40,21 +40,21 @@
 
 #### • Web Languages 🖥️
 <table>
-  <tr height="160">
+  <tr height="120">
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/61e57ed8-f4bb-4a6f-bd78-b01937df68f3" alt="HTML">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/61e57ed8-f4bb-4a6f-bd78-b01937df68f3" alt="HTML">
       <b><br>HTML</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/bae0fc00-8e1c-4f23-bfca-8b3edd921307" alt="CSS">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/bae0fc00-8e1c-4f23-bfca-8b3edd921307" alt="CSS">
        <b><br>CSS</b>
     </td>
-    <td border="0" width="200" align="center">
-      <img height="70" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/11ba048c-d03b-45de-a970-b99b2d47bec2" alt="Javascript">
+    <td width="200" align="center">
+      <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/11ba048c-d03b-45de-a970-b99b2d47bec2" alt="Javascript">
       <b><br>Javascript</b>
     </td>
-    <td border="0" width="200" align="center">
-      <img height="90" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/bb0968aa-6f27-4b37-b7fd-d228f3b82285" alt="PHP">
+    <td width="200" align="center">
+      <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/bb0968aa-6f27-4b37-b7fd-d228f3b82285" alt="PHP">
       <b><br>php</b>
     </td>
   </tr>
@@ -62,21 +62,21 @@
 
 #### • Web Development Frameworks 
 <table>
-  <tr height="160">
+  <tr height="120">
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/b1570dd8-531a-427a-b194-bd5a14cf3648" alt="Laravel">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/b1570dd8-531a-427a-b194-bd5a14cf3648" alt="Laravel">
       <b><br>Laravel</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/2f5a5f43-f820-4bce-b18c-24d51a29c4d4" alt="Django">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/2f5a5f43-f820-4bce-b18c-24d51a29c4d4" alt="Django">
       <b><br>Django</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/fe3d5518-5ca6-466b-98c6-649146eda68e" alt="ReactJS">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/fe3d5518-5ca6-466b-98c6-649146eda68e" alt="ReactJS">
       <b><br>ReactJS</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8c6f12ca-0224-4aba-a75c-453038f54101" alt="NodeJS">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8c6f12ca-0224-4aba-a75c-453038f54101" alt="NodeJS">
       <b><br>NodeJS</b>
     </td>
     <td width="200" align="center">
@@ -88,21 +88,21 @@
 
 #### • Database Tools and Server
 <table>
-  <tr height="160">
+  <tr height="120">
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/ca8a2ee2-47a9-4633-af20-09c9c8440beb" alt="MySQL">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/ca8a2ee2-47a9-4633-af20-09c9c8440beb" alt="MySQL">
       <b><br>MySQL</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/82e1bf3c-4136-463b-9d62-85690d4e66ef" alt="MongoDB">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/82e1bf3c-4136-463b-9d62-85690d4e66ef" alt="MongoDB">
       <b><br>MongoDB</b>
     </td>
     <td width="200" align="center">
-       <img height="90" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/52747f24-ad7a-48a5-9669-fce5d203bea1" alt="phpMyAdmin">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/52747f24-ad7a-48a5-9669-fce5d203bea1" alt="phpMyAdmin">
       <b><br>phpMyAdmin</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/777c4943-ca63-4c38-91f4-5873fa846164" alt="Xampp">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/777c4943-ca63-4c38-91f4-5873fa846164" alt="Xampp">
       <b><br>Xampp</b>
     </td>
   </tr>
@@ -110,21 +110,21 @@
 
 #### • Software Tools 😊
 <table>
-  <tr height="160">
+  <tr height="120">
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/2600e95e-e170-47ff-adba-bc292ec91441" alt="Linux">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/2600e95e-e170-47ff-adba-bc292ec91441" alt="Linux">
       <b><br>Linux</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/d680f54e-b074-493c-97c1-f9fa364d2737" alt="Git">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/d680f54e-b074-493c-97c1-f9fa364d2737" alt="Git">
       <b><br>Git</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/4d7d6e6d-4953-4302-a52c-7f55eb9ce544" alt="Github">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/4d7d6e6d-4953-4302-a52c-7f55eb9ce544" alt="Github">
       <b><br>Github</b>
     </td>
     <td width="200" align="center">
-       <img height="80" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8741cf1a-1ae9-47f3-a513-411a89490db3" alt="Ubuntu">
+       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8741cf1a-1ae9-47f3-a513-411a89490db3" alt="Ubuntu">
       <b><br>Ubuntu</b>
     </td>
   </tr>
