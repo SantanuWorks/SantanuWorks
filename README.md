@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-#### • Application Development Frameworks 
+#### • Application Development Frameworks ⌨️💻
 <table>
   <tr height="120">
     <td width="200" align="center">
