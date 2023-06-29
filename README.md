@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-#### • Web Development Frameworks 
+#### • Web Development Frameworks 🌐💻
 <table>
   <tr height="120">
     <td width="200" align="center">
