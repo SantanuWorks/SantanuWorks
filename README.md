@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-#### • Web Backend Languages/Frameworks 🌐💻
+#### • Backend Languages/Frameworks 🌐💻
 <table>
   <tr height="120">
     <td width="200" align="center">
@@ -80,10 +80,6 @@
     <td width="200" align="center">
        <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/ca8a2ee2-47a9-4633-af20-09c9c8440beb" alt="MySQL">
       <b><br>MySQL</b>
-    </td>
-    <td width="200" align="center">
-       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/82e1bf3c-4136-463b-9d62-85690d4e66ef" alt="MongoDB">
-      <b><br>MongoDB</b>
     </td>
     <td width="200" align="center">
        <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/52747f24-ad7a-48a5-9669-fce5d203bea1" alt="phpMyAdmin">
