@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-#### • Web Languages 🖥️
+#### • Frontend Languages🖥️
 <table>
   <tr height="120">
     <td width="200" align="center">
@@ -53,14 +53,10 @@
       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/11ba048c-d03b-45de-a970-b99b2d47bec2" alt="Javascript">
       <b><br>Javascript</b>
     </td>
-    <td width="200" align="center">
-      <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/bb0968aa-6f27-4b37-b7fd-d228f3b82285" alt="PHP">
-      <b><br>php</b>
-    </td>
   </tr>
 </table>
 
-#### • Web Development Frameworks 🌐💻
+#### • Web Backend Languages/Frameworks 🌐💻
 <table>
   <tr height="120">
     <td width="200" align="center">
@@ -72,16 +68,8 @@
       <b><br>Django</b>
     </td>
     <td width="200" align="center">
-       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/fe3d5518-5ca6-466b-98c6-649146eda68e" alt="ReactJS">
-      <b><br>ReactJS</b>
-    </td>
-    <td width="200" align="center">
-       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/8c6f12ca-0224-4aba-a75c-453038f54101" alt="NodeJS">
-      <b><br>NodeJS</b>
-    </td>
-    <td width="200" align="center">
-       <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/673271e0-451c-4c7f-aca7-a8acf71f1f50" alt="ExpressJs">
-      <b><br>ExpressJs</b>
+      <img height="50" src="https://github.com/SantanuWorks/SantanuWorks/assets/133559707/bb0968aa-6f27-4b37-b7fd-d228f3b82285" alt="PHP">
+      <b><br>php</b>
     </td>
   </tr>
 </table>
