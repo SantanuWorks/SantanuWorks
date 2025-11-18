@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santanu Pradhan</h1>
-<h3 align="center">Software Engineer @ Zessta Software Services Private Limited | Technology Enthusiast | Poetry Writing | Home Tutor</h3><br>
+<h3 align="center">Software Engineer @ Zessta Software Services Private Limited | Technology Enthusiast | Poetry Writing | Tutor</h3><br>
 
 ![Banner-GitHub](https://github.com/SantanuWorks/SantanuWorks/assets/133559707/f4df8f48-2f82-4666-93c6-441e265dc391)
 
